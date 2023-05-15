@@ -1,2 +1,2 @@
-# wheat disease detection
+# Wheat disease detection
  
