@@ -1,1 +1,1 @@
-
+print("Wheat disease detection")
